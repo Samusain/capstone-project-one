@@ -1,0 +1,32 @@
+{
+  "name": "@capstone-project-one/capstone-project-one",
+  "version": "1.0.0",
+  "description": "Environment Setup and AI toolchain configuration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/capstone-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/capstone-project/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/capstone-project#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "vite": "^8.1.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
